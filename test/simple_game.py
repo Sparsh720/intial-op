@@ -2,6 +2,7 @@ import pygame
 import random
 
 # Initialize Pygame
+print("initializing pygame...")
 pygame.init()
 
 # Get the device's screen info
