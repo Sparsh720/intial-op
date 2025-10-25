@@ -7,3 +7,4 @@ b = int(input("enter second number: "))
 c = a + b
 print("the sum is: ", c)
 print("end of code")
+print("thanks if you found me")
